@@ -6,7 +6,7 @@ import java.awt.geom.Line2D;
 
 public class Edge extends Line2D.Double {
 	
-	private static final long serialVersionUID = 2L;
+	private static final long serialVersionUID = -3079054804796917686L;
 	
 	private Vertex vertex1;
 	private Vertex vertex2;

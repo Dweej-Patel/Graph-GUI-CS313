@@ -11,7 +11,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 public class GUI extends JFrame {
 	
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = -7394373021780357533L;
 	
 	public static GraphPanel graphPanel;
 	

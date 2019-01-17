@@ -5,7 +5,9 @@ import java.awt.geom.Ellipse2D;
 
 public class Vertex extends Ellipse2D.Double {
 	
-	private static final long serialVersionUID = 1L;
+
+	private static final long serialVersionUID = -2781610886944495997L;
+
 	
 	private int xCoo;
     private int yCoo;

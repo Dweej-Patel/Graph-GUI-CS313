@@ -5,7 +5,7 @@ import javax.swing.JTextArea;
 
 public class HelpGUI extends JFrame {
 	
-	private static final long serialVersionUID = 4L;
+	private static final long serialVersionUID = 3907160952518337528L;
 
 	public HelpGUI(String title) {
 		setTitle(title);

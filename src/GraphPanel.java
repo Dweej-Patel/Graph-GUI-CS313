@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 public class GraphPanel extends JPanel {
 
-	private static final long serialVersionUID = 3L;
+	private static final long serialVersionUID = -3329481036168842726L;
 	
 	private Graph graph = new Graph();
     private Vertex tempVert, vert1 = new Vertex(), vert2;
